@@ -1,6 +1,6 @@
 # Do Private Utilities Outperform Local Government-Owned Utilities? Evidence from German Retail Electricity
 
-author: Caroline Stiel (DIW Berlin), Astrid Cullmann (Technische Universit&auml;t Berlin), Maria Nieswand
+author: Caroline Stiel (DIW Berlin), Astrid Cullmann (Technische Universit&auml;t Berlin), Maria Nieswand (DIW Berlin)
 
 published in: Stiel, C.; Cullmann, A.; Nieswand, M. (2018): Do Private Utilities Outperform Local Government-Owned Utilities? Evidence from German Retail Electricity. German Economic Review. 19(4). pp. 401-425.
 
