@@ -322,8 +322,8 @@ dstat(data_p$omega21,d=3)
 # --------------------------------------
 
 pty_mean_median_growth <- cbind(c(seq(2003,2012))
-									,"Median"=c(dstat(data_p$omega21,d=3)[,4]-dstat(data_p$omega21,d=3)[1,4])
-									,"Mean"=c(dstat(data_p$omega21,d=3)[,5]-dstat(data_p$omega21,d=3)[1,5]))
+,"Median"=c(dstat(data_p$omega21,d=3)[,4]-dstat(data_p$omega21,d=3)[1,4])
+,"Mean"=c(dstat(data_p$omega21,d=3)[,5]-dstat(data_p$omega21,d=3)[1,5]))
 
 # growth rates (2003=100)
 # ----------------------
