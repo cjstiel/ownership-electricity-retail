@@ -12,12 +12,12 @@ _Against the background of remunicipalisation trends in European public service 
 
 ### Firm-level data
 
- We use official microdata from the German Statistical Office.
+ We use official microdata from the German Statistical Office (AFiD).
 
 - consisting of balance sheet and product data from German electricity firms covering the years 2003-12
 - merging data sets from 9 different surveys
 
-See [gitlab.com/modern-state-owned-firms](https://gitlab.com/modern-state-owned-firms) for more information on the data sources and the linkage strategy to merge all the data sources.
+See [gitlab.com/modern-state-owned-firms/data](https://gitlab.com/modern-state-owned-firms/data) for more information on the data sources and the linkage strategy to merge all the data sources.
 
 ### Methods
 
