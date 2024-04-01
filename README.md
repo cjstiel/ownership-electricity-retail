@@ -1,10 +1,10 @@
 # Do Private Utilities Outperform Local Government-Owned Utilities? Evidence from German Retail Electricity
 
-authors: Caroline Stiel (DIW Berlin), Astrid Cullmann (Technische Universit&auml;t Berlin), Maria Nieswand (DIW Berlin)
+**authors:** Caroline Stiel (DIW Berlin), Astrid Cullmann (Technische Universit&auml;t Berlin), Maria Nieswand (DIW Berlin)
 
 The empirical analysis was done in `R`. In this repository you find all statistical programs to conduct the analyses in the article.
 
-## Content
+## Summary
 
 _Against the background of remunicipalisation trends in European public service sectors, this paper estimates firm-level productivity for German electricity retailers and tests whether the ownership type has a significant impact on productivity. We specify a production function for the retail sector with labour and external services as main inputs, which is estimated using a control function approach. Employing a newly constructed dataset on German utilities by the German Federal Statistical Office for the years 2003-12, we find that firm-level productivity generally increased until 2008 but not afterwards. We do not find any evidence for ownership having an impact on productivity._
 
