@@ -38,3 +38,5 @@ The research was funded by the Leibniz Association while we were investigators i
 
 The results are published in Stiel, C.; Cullmann, A.; Nieswand, M. (2018): [Do Private Utilities Outperform Local Government-Owned Utilities? Evidence from German Retail Electricity.](https://doi.org/10.1111/geer.12134) German Economic Review. 19(4). pp. 401-425.
 
+We also discuss the results in a policy brief Cullmann, A.; Nieswand, M.; Seifert, S.; Stiel, C. (2016): [Keine Effizienzunterschiede zwischen oeffentlichen und privaten Energieversorgungsungernehmen.](https://hdl.handle.net/10419/141295) DIW Wochenbericht. 83(20). pp. 448-453.
+
