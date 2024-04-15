@@ -17,7 +17,7 @@ _Against the background of remunicipalisation trends in European public service 
  We use official microdata from the _German Statistical Office_
 
 - consisting of balance sheet and product data [_(AFiD)_](https://gitlab.com/modern-state-owned-firms/data/afid-data) from German electricity firms covering the years 2003-12
-- merging data sets from 9 different surveys.
+- as well as data on public firms in Germany [_(JAB)_](https://doi.org/10.21242/71811.2016.00.00.1.1.0) and data from the [German business register](https://doi.org/10.21242/52121.2014.00.00.1.1.0).
 
 See [gitlab.com/modern-state-owned-firms/data](https://gitlab.com/modern-state-owned-firms/data) for more information on the data sources and the linkage strategy to merge all the data sources.
 
@@ -40,5 +40,5 @@ We discuss the results in two policy briefs
 - _(english)_ Cullmann, A.; Nieswand, M.; Seifert, S.; Stiel, C. (2016): [No differences in efficiency between public and private utilities.](http://hdl.handle.net/10419/141288) DIW Economic
 Bulletin 20/2016, pp. 233-238.
 
-The article was part of the research project _Kommunale Infrastrukturunternehmen zwischen Energiewende und demografischem Wandel_ financed by the Leibniz Association (2013-2016). Visit https://modern-state-owned-firms.gitlab.io/landing-page/ for more information on the project and related research in this field.
+The article is part of the research project _Kommunale Infrastrukturunternehmen zwischen Energiewende und demografischem Wandel_ financed by the Leibniz Association (2013-2016). Visit https://modern-state-owned-firms.gitlab.io/landing-page/ for more information on the project and related research in this field.
 
