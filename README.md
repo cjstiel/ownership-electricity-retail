@@ -40,5 +40,5 @@ We discuss the results in two policy briefs
 - _(english)_ Cullmann, A.; Nieswand, M.; Seifert, S.; Stiel, C. (2016): [No differences in efficiency between public and private utilities.](http://hdl.handle.net/10419/141288) DIW Economic
 Bulletin 20/2016, pp. 233-238.
 
-The article is part of the research project _Kommunale Infrastrukturunternehmen zwischen Energiewende und demografischem Wandel_ financed by the Leibniz Association (2013-2016). Visit https://modern-state-owned-firms.gitlab.io/landing-page/ for more information on the project and related research in this field.
+The article is part of the research project _Kommunale Infrastrukturunternehmen zwischen Energiewende und demografischem Wandel_ financed by the Leibniz Association (2013-2016). Visit [modern-state-owned-firms.gitlab.io/landing-page](https://modern-state-owned-firms.gitlab.io/landing-page/) for more information on the project and related research in this field.
 
